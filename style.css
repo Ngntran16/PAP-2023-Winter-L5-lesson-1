@@ -14,8 +14,9 @@ body {
     background-size: cover;
     line-height: 1.5rem;
     /* Part 1Exercise 1 */
-
-
+    font-family: 'Libre Franklin',sans-serif;
+    color: #664b3d;
+    text-align: center;
     /* Part 1 Exercise 4 */
 
 }
