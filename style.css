@@ -17,15 +17,21 @@ body {
     font-family: 'Libre Franklin',sans-serif;
     color: #664b3d;
     text-align: center;
-    /* Part 1 Exercise 4 */
-
+    /* Part 1 Exercise 4 */ 
+    /* reset browser margin  */
+    margin: 0;
 }
 
 /* Part 1 Exercise 2 */
+#allmachine {
+    color: darkorchid;
+}
 
 
 /* Part 1 Exercise 3 */
-
+#allmachine {
+    color: #664b3d;
+}
 
 img {
     max-width: 100%;
