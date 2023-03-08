@@ -58,3 +58,35 @@ h2 {
 }
 
 /* Part 2 - Exercises 1-5 */
+#static-child1 {
+  position: static;
+  margin-top: 100px;
+  margin-left: -200px;
+}
+#relative-child3 {
+  position: relative;
+  top: 100px;
+  left: -80px;
+}
+#absolute-parent {
+  position: relative;
+  background-color: hotpink;
+}
+
+#absolute-child3 {
+  position: absolute;
+  bottom: 10px;
+  right: 5px;
+}
+
+#fixed-child2 {
+  position: fixed;
+  top: 100px;
+  left: 10px;
+}
+
+#sticky {
+  position: sticky;
+  bottom: 0px;
+  left: 0px;
+}
